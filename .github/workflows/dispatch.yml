@@ -1,0 +1,23 @@
+name: Trigger site build
+
+on:
+  push:
+    branches-ignore:
+      - 'renovate/**'
+  delete:
+
+jobs:
+  dispatch:
+    # `delete` events can't be branch-filtered above, so gate renovate here too
+    if: github.event_name == 'push' || !startsWith(github.event.ref, 'renovate/')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dispatch to recipes-site
+        run: |
+          code=$(curl -s -o /dev/null -w '%{http_code}' -X POST \
+            -H "Authorization: Bearer ${{ secrets.SITE_DISPATCH_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/andothomas/recipes-site/dispatches \
+            -d '{"event_type":"content-updated","client_payload":{"ref":"${{ github.ref }}","sha":"${{ github.sha }}"}}')
+          # A non-204 here usually means SITE_DISPATCH_TOKEN expired — fail loudly.
+          [ "$code" = "204" ] || { echo "dispatch failed: HTTP $code"; exit 1; }
