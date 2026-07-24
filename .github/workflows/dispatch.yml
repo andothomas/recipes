@@ -13,11 +13,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Dispatch to recipes-site
+        # workflow_dispatch needs only "Actions: read and write" on the token —
+        # it can start the build but cannot touch recipes-site's code.
         run: |
           code=$(curl -s -o /dev/null -w '%{http_code}' -X POST \
             -H "Authorization: Bearer ${{ secrets.SITE_DISPATCH_TOKEN }}" \
             -H "Accept: application/vnd.github+json" \
-            https://api.github.com/repos/andothomas/recipes-site/dispatches \
-            -d '{"event_type":"content-updated","client_payload":{"ref":"${{ github.ref }}","sha":"${{ github.sha }}"}}')
+            https://api.github.com/repos/andothomas/recipes-site/actions/workflows/deploy.yml/dispatches \
+            -d '{"ref":"main"}')
           # A non-204 here usually means SITE_DISPATCH_TOKEN expired — fail loudly.
           [ "$code" = "204" ] || { echo "dispatch failed: HTTP $code"; exit 1; }
