@@ -1,0 +1,24 @@
+name: Close outside pull requests
+
+# The book takes corrections only from its own kitchen. Interaction limits
+# (Settings → Moderation) block outside PRs too, but they expire every six
+# months — this does not.
+on:
+  pull_request_target:
+    types: [opened, reopened]
+
+permissions:
+  pull-requests: write
+
+jobs:
+  close:
+    if: github.event.pull_request.user.login != 'andothomas'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Close with a note
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh pr close ${{ github.event.pull_request.number }} \
+            --repo ${{ github.repository }} \
+            --comment "Thanks for reading closely — but this recipe book only takes corrections from its own kitchen. Every change here has to be cooked first."
