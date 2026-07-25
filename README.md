@@ -76,7 +76,7 @@ Open attempt/short-ribs/crispier-skin — dry brine 12h
 Cooked: 2026-07-24
 ```
 
-The site counts attempts by distinct `Cooked:` dates and shows the most recent as "last cooked". A recipe with no trailers reads "not yet cooked".
+The site counts attempts by distinct `Cooked:` dates and shows the most recent as "last cooked". A recipe enters the book cooked once: its add commit counts as attempt one even without a trailer. If the first cook happened on a different day than the commit, put a `Cooked:` trailer on the add commit.
 
 ## Versions
 

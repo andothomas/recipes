@@ -16,7 +16,7 @@ You are adding a recipe to a git recipe book (see the repo README for the full c
    - `## Ingredients`: lines are `- quantity | name`, first-pipe split, metric preferred. No pipe for unquantified items ("- flaky salt, to taste"). `###` subgroups for distinct components.
    - `## Method`: one `###` per step, 1–3 sentences each. Say the number — temperatures, times, weights. Reference photos as `![desc](photos/<name>.jpg)` where a process shot would genuinely help (the site shows a quiet placeholder until the photo exists). Cook's cautions as `> note:` blockquotes.
    - Voice: confident, specific, faintly dry. Sentence case. No emoji, no exclamation marks, no "delicious"/"amazing"/"elevate". Instructions address the cook ("Pat the ribs dry").
-   - This draft has never been cooked. Do not invent history or testing claims.
+   - Adding a recipe records its first cook — the add commit counts as attempt one. If the cook happened on a different day than the commit, add a `Cooked: YYYY-MM-DD` trailer. Do not invent details of the cook beyond what Andy reports.
 
 3. **Validate.** Check every rule above mechanically. If the file came from elsewhere, fix format violations only — never editorial content.
 
@@ -25,7 +25,7 @@ You are adding a recipe to a git recipe book (see the repo README for the full c
    git checkout main && git pull
    git checkout -b new/<slug>
    git add recipes/<slug>/
-   git commit -m "Add <title> — first draft, untested"
+   git commit -m "Add <title> — first draft"
    git push -u origin new/<slug>
    gh pr create --title "Add <title>" --body "<one line on the dish and what the first cook should answer>"
    ```
