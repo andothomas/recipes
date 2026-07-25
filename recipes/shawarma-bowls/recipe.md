@@ -25,7 +25,7 @@ hero: photos/hero.jpg
 
 ### Lemon yellow rice
 - 10.5 oz | long-grain white rice
-- 530 ml | chicken broth
+- 2.25 cups | chicken broth
 - 1 tbsp | butter
 - 0.5 tsp | ground turmeric
 - 0.5 tsp | ground cumin
