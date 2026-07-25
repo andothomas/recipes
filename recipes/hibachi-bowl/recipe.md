@@ -49,6 +49,8 @@ Set the flat-top to its highest setting and give it a full 10 minutes to come up
 ### Sear the chicken
 Add the avocado oil, then lay the cubed chicken out in a single layer and season with salt and pepper. Leave it undisturbed for 1 minute to build color, then turn and cook 3–4 minutes more, until the cubes are white through with no pink at the center.
 
+> note: I forgot to season this last time.
+
 ![Cubed chicken searing in a single layer](photos/chicken-single-layer.jpg)
 
 ### Finish and pull the chicken
