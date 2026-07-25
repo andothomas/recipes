@@ -34,7 +34,7 @@ hero: photos/hero.jpg
 ---
 ## Ingredients
 ### For the braise
-- 1.8 kg | bone-in beef short ribs
+- 4 lb | bone-in beef short ribs
 - flaky salt, to taste
 
 ## Method

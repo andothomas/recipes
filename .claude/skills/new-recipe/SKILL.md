@@ -13,7 +13,7 @@ You are adding a recipe to a git recipe book (see the repo README for the full c
 
 2. **Write the recipe** at `recipes/<slug>/recipe.md`. Slug is short kebab-case (`short-ribs`, not `gochujang-braised-beef-short-ribs`). Follow the README grammar exactly:
    - Frontmatter: `title` (sentence case), `lede` (≤40 words, confident, specific), `eyebrow` (2–3 ALL-CAPS words joined by " / "), `tags` (1–3, lowercase), `serves` (quoted string), `total_time` (quoted string like "3h 45m"), `hero: photos/hero.jpg`.
-   - `## Ingredients`: lines are `- quantity | name`, first-pipe split, metric preferred. No pipe for unquantified items ("- flaky salt, to taste"). `###` subgroups for distinct components.
+   - `## Ingredients`: lines are `- quantity | name`, first-pipe split. Weights in US customary units — lb for roughly a pound and up, oz below that; never grams. No pipe for unquantified items ("- flaky salt, to taste"). `###` subgroups for distinct components.
    - `## Method`: one `###` per step, 1–3 sentences each. Say the number — temperatures, times, weights. Reference photos as `![desc](photos/<name>.jpg)` where a process shot would genuinely help (the site shows a quiet placeholder until the photo exists). Cook's cautions as `> note:` blockquotes.
    - Voice: confident, specific, faintly dry. Sentence case. No emoji, no exclamation marks, no "delicious"/"amazing"/"elevate". Instructions address the cook ("Pat the ribs dry").
    - Adding a recipe records its first cook — the add commit counts as attempt one. If the cook happened on a different day than the commit, add a `Cooked: YYYY-MM-DD` trailer. Do not invent details of the cook beyond what Andy reports.

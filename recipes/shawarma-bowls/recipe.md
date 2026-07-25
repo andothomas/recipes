@@ -11,7 +11,7 @@ hero: photos/hero.jpg
 ## Ingredients
 
 ### Chicken
-- 680 g | boneless skinless chicken breast
+- 1.5 lb | boneless skinless chicken breast
 - 1.5 tbsp | olive oil
 - 1 | lemon, juiced
 - 4 cloves | garlic, minced
@@ -24,7 +24,7 @@ hero: photos/hero.jpg
 - 0.5 tsp | black pepper
 
 ### Lemon yellow rice
-- 300 g | long-grain white rice
+- 10.5 oz | long-grain white rice
 - 530 ml | chicken broth
 - 1 tbsp | butter
 - 0.5 tsp | ground turmeric
@@ -41,7 +41,7 @@ hero: photos/hero.jpg
 - 0.5 | red onion, thinly sliced
 
 ### Garlic yogurt sauce
-- 240 g | plain nonfat Greek yogurt
+- 8.5 oz | plain nonfat Greek yogurt
 - 1 clove | garlic, minced
 - 1 tbsp | lemon juice
 - flaky salt, to taste
