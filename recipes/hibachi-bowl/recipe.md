@@ -11,7 +11,7 @@ hero: photos/hero.jpg
 ## Ingredients
 
 ### Chicken
-- 450 g | boneless skinless chicken breast, cubed
+- 1 lb | boneless skinless chicken breast, cubed
 - 1 tbsp | avocado oil
 - 1 tbsp | low-sodium soy sauce
 - 0.5 tbsp | garlic, minced
@@ -22,16 +22,16 @@ hero: photos/hero.jpg
 - 0.5 tbsp | garlic, minced
 - 1 | zucchini, cut into half-moons
 - 1 | white onion, sliced
-- 225 g | broccoli florets, cut small
-- 225 g | snap peas
-- 225 g | water chestnuts, drained and rinsed
+- 8 oz | broccoli florets, cut small
+- 8 oz | snap peas
+- 8 oz | water chestnuts, drained and rinsed
 - 1 tbsp | low-sodium soy sauce
 - salt and black pepper, to taste
 
 ### Fried rice
 - 1 tbsp | avocado oil
 - 2 | eggs
-- 400 g | cold cooked rice, day-old
+- 14 oz | cold cooked rice, day-old
 - 1 tbsp | low-sodium soy sauce
 - 1 | lemon, juiced
 - 3 | green onions, chopped
