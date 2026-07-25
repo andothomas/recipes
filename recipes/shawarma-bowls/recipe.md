@@ -53,8 +53,12 @@ Combine the olive oil, lemon juice, garlic, cumin, coriander, smoked paprika, tu
 
 > note: if you marinate overnight, pull the chicken out 20 minutes before cooking so it isn't fridge-cold on the pan.
 
+> note: 20 minutes was perfect, no more time needed. It was the best tasting chicken I've had in a while.
+
 ### Start the rice
 Rinse the rice under cold water until it runs clear, roughly 30 seconds, to keep it from turning gummy. Add it to the rice cooker with the broth, butter, turmeric, cumin, garlic and salt, then run a standard white rice cycle.
+
+> note: rice was not salty enough last time but the chicken made up for it a little.
 
 ![Turmeric rice in the cooker before the lid goes down](photos/yellow-rice-cooker.jpg)
 
