@@ -29,6 +29,27 @@ You are adding a recipe to a git recipe book (see the repo README for the full c
    git push -u origin new/<slug>
    gh pr create --title "Add <title>" --body "<one line on the dish and what the first cook should answer>"
    ```
-   Do NOT merge the PR. An open `new/*` branch means the recipe is on the stove; Andy merges after the first cook (recording it with /new-attempt conventions — the `Cooked:` trailer goes on a commit from the session).
+   Do NOT merge on your own. An open `new/*` branch means the recipe is on the stove — the site gives it a full preview page, a clickable card, and the gold tip of the landing tree. The first cook happens while the branch is open: photos and fixes land as branch commits, and a commit from the session carries the `Cooked:` trailer when the cook date differs from the add commit.
+
+   When Andy calls it, merge with a true merge commit (never squash/rebase). The merge body's first line becomes the event label on the site's live tree, so it must say what happened:
+   ```
+   gh pr merge <N> --merge --subject "Merge pull request #<N> from andothomas/new/<slug>" --body "Add <title>"
+   ```
 
 5. Tell Andy the PR URL and what the first cook should pay attention to.
+
+## Photos
+
+Andy's photos arrive as HEICs off his phone. Process before committing — the repo is public:
+
+- Convert to JPEG, `-auto-orient` first (phone EXIF rotation lies to naive crops).
+- Crop in on the food: square for bowls (they're round), wider for pans and spreads. Trim rooms, counters, and clutter; a hint of hand is fine.
+- Saturation +15% (`-modulate 100,115,100`) — the book's look, applied consistently.
+- Resize to 1600–2000px on the long edge, quality ~85, and `-strip` all metadata (phone photos carry GPS).
+- Filenames must match what recipe.md references (`hero.jpg` and the step shots).
+
+```
+magick IMG_XXXX.HEIC -auto-orient -crop <geometry> +repage -modulate 100,115,100 -resize 2000x -strip -quality 85 recipes/<slug>/photos/hero.jpg
+```
+
+Commit as "Process hero photo from the first cook" — the `Cooked:` trailer rides this commit when it's the one recording the session.
