@@ -6,6 +6,9 @@ tags: [weeknight, high-protein]
 serves: "4"
 total_time: "35m"
 hero: photos/hero.jpg
+satiety: 4
+serving: "1 bowl (about 15 oz)"
+macros: { calories: 490, protein: 34, carbs: 47, fat: 14 }
 ---
 
 ## Ingredients

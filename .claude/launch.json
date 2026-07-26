@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "recipes-site-preview",
+      "runtimeExecutable": "sh",
+      "runtimeArgs": ["-c", "cd /Users/ajthomas/recipes-site && npm run preview -- --port 4321"],
+      "port": 4321
+    },
+    {
+      "name": "recipes-site-dev",
+      "runtimeExecutable": "sh",
+      "runtimeArgs": ["-c", "cd /Users/ajthomas/recipes-site && npm run dev -- --port 4322"],
+      "port": 4322
+    }
+  ]
+}

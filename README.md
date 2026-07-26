@@ -31,6 +31,9 @@ tags: [sunday, braise]
 serves: "4"
 total_time: "4h 20m"
 hero: photos/hero.jpg
+satiety: 4
+serving: "1 plate (about 14 oz)"
+macros: { calories: 640, protein: 45, carbs: 38, fat: 33 }
 ---
 ## Ingredients
 ### For the braise
@@ -49,6 +52,7 @@ One to three sentences. Say the number: 300°F, 90 seconds a side.
 Rules the site's parser enforces:
 
 - **Ingredients** are `- quantity | name`, split on the first pipe. The quantity is what 1×/2× scaling multiplies; a line with no pipe ("- flaky salt, to taste") never scales. `###` subheadings inside Ingredients group components.
+- **Nutrition facts** are optional frontmatter, always approximate and always per serving: `satiety` is 1–5 (1 a snack, 5 won't need seconds), `serving` is plain words with a US-customary weight, `macros` is `{ calories, protein, carbs, fat }` — calories in kcal, the rest in grams (the macros exception to the units rule). Estimate honestly from the ingredient list; revise when a cook proves otherwise.
 - **Steps** are one `###` heading each under `## Method`. Images are standard markdown images pointing into `photos/`. Blockquotes are notes.
 - A recipe that fails to parse is dropped from the site with a warning, never a broken deploy. The history keeps the mistake either way.
 
