@@ -54,3 +54,5 @@ magick IMG_XXXX.HEIC -auto-orient -crop <geometry> +repage -modulate 100,115,100
 ```
 
 Commit as "Process hero photo from the first cook" — the `Cooked:` trailer rides this commit when it's the one recording the session.
+
+If a photo isn't Andy's (a borrowed hero because the cook went unphotographed): no saturation grade — the look is for our photos only — just resize and strip metadata, set `hero_credit: "not our photo — via <source>"` in the frontmatter, and say so in the commit message. Replace it with a real photo at the next cook.
