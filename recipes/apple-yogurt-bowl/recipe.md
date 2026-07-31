@@ -37,6 +37,8 @@ macros: { calories: 562, protein: 51, carbs: 64, fat: 13 }
 
 Peel and core the apples, then dice them into 1/2-inch pieces. Even sizing matters more than exact size — you want every piece tender at the same moment.
 
+> note: I only used 1 apple (honeycrisp).
+
 ### Bloom the spices
 
 Melt the butter in a 12-inch skillet over medium heat. Add the cinnamon, nutmeg, and salt and stir for 20 seconds, until the cinnamon smells toasted rather than raw.
