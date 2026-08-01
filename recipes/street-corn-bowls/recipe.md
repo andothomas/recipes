@@ -1,13 +1,13 @@
 ---
 title: Sweet potato street corn bowls
-lede: Roasted sweet potatoes and taco beef over crisp romaine, topped with a creamy elote-style corn mixture that doubles as the dressing.
+lede: Roasted sweet potatoes and taco beef topped with a creamy elote-style corn mixture that doubles as the dressing.
 eyebrow: WEEKNIGHT / BOWLS
 tags: [weeknight]
 serves: "4"
 total_time: "45m"
 hero: photos/hero.jpg
 satiety: 4
-serving: "1 bowl (about 17 oz)"
+serving: "1 bowl (about 15 oz)"
 macros: { calories: 590, protein: 30, carbs: 50, fat: 30 }
 ---
 
@@ -32,12 +32,9 @@ macros: { calories: 590, protein: 30, carbs: 50, fat: 30 }
 - 1/2 cup | cottage cheese, blended (or sour cream)
 - 1/2 cup | light mayonnaise
 - 2 tbsp | cotija cheese, crumbled
-- 1/2 tsp | Tajín
-- 1/2 tsp | elote seasoning
+- 1 tsp | Tajín
+- 1 to 1.5 tsp | elote seasoning
 - 1/2 | lime, juiced (plus wedges to serve)
-
-### Bowl
-- 2 | romaine hearts, shredded
 
 ### Roasted garlic seasoning (makes about 2 tbsp — you need 1/2 tsp)
 - 2 tsp | kosher salt
@@ -72,11 +69,8 @@ In a large bowl, combine the corn, red onion, cilantro, blended cottage cheese, 
 
 ![The elote-style corn mixture, mixed](photos/corn-topping.jpg)
 
-### Rest the potatoes
-Let the roasted sweet potatoes sit off the pan for a minute or two so they don't wilt the lettuce on contact.
-
 ### Assemble the bowls
-Lay the shredded romaine down first, then layer on the roasted sweet potatoes, the seasoned taco meat, and a generous scoop of the street corn mixture.
+Layer the roasted sweet potatoes, the seasoned taco meat, and a generous scoop of the street corn mixture into bowls.
 
 ### Garnish and serve
 Top with extra cotija, cilantro, and a squeeze of fresh lime. Toss lightly as you eat — the corn mixture doubles as the dressing. Serve immediately.
