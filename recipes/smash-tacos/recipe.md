@@ -43,6 +43,8 @@ macros: { calories: 500, protein: 51, carbs: 35, fat: 17 }
 
 The dressing leans entirely on light mayonnaise, so the brand matters: check the label for added sugar — some light mayos are noticeably sweet, which reads wrong in a Caesar. If the finished dressing tastes thin, a 50/50 split of light and regular mayo restores the body for a few extra grams of fat per serving.
 
+Lower-carb alternative: swap in 8 medium zero-net-carb tortillas (soft-taco size) and press about 4 oz of chicken onto each — the larger tortilla takes the bigger portion. That makes 8 tacos, serving 4 at 2 tacos each: roughly 520 calories, 68g protein, 23g fat, and 39g carbs per serving, of which about 11g are net — the tortilla carbs are nearly all fiber.
+
 ### Make the dressing
 Whisk the mayonnaise, Dijon, lemon juice, garlic, Worcestershire, pepper, and salt. No oil, no water — light mayo is already thin. Taste and push the salt and lemon a little further than feels right — the reduced fat mutes everything — then refrigerate until assembly.
 
