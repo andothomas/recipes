@@ -16,9 +16,14 @@ macros: { calories: 500, protein: 51, carbs: 35, fat: 17 }
 ### Tacos
 - 2 lb | ground chicken breast (98/2)
 - 10 | street-size flour tortillas
+- 1/3 cup | parmesan, grated (for the pan)
+
+### Seasoning
 - 1 tsp | salt
 - 1 tsp | black pepper
-- 1/3 cup | parmesan, grated (for the pan)
+- 1 tsp | garlic powder
+- 1/2 tsp | onion powder
+- 1/2 tsp | dried oregano
 
 ### Lightened Caesar
 - 1 cup | light mayonnaise
@@ -41,8 +46,11 @@ The dressing leans entirely on light mayonnaise, so the brand matters: check the
 ### Make the dressing
 Whisk the mayonnaise, Dijon, lemon juice, garlic, Worcestershire, pepper, and salt. No oil, no water — light mayo is already thin. Taste and push the salt and lemon a little further than feels right — the reduced fat mutes everything — then refrigerate until assembly.
 
+### Season the chicken
+Stir together the salt, pepper, garlic powder, onion powder, and oregano. Fold the blend into the cold chicken just until evenly distributed — a few turns, not a knead, or the meat turns pasty.
+
 ### Portion the chicken
-Keep the chicken cold until the moment it hits the pan — warm ground chicken smears instead of smashing. Divide it into 10 portions, about 3 oz each, and press one onto each tortilla in an even layer all the way to the edge. Season the meat side with the salt and pepper.
+Keep the chicken cold until the moment it hits the pan — warm ground chicken smears instead of smashing. Divide it into 10 portions, about 3 oz each, and press one onto each tortilla in an even layer all the way to the edge.
 
 ![Chicken pressed to the tortilla edge](photos/press.jpg)
 
