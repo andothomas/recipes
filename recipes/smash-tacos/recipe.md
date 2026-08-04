@@ -1,6 +1,6 @@
 ---
 title: Chicken Caesar smash tacos
-lede: Ground chicken smashed thin on street tortillas, seared crisp, flipped onto a parmesan frico crust, then piled with romaine in a lightened Caesar. About 27 grams of protein per taco.
+lede: Ground chicken smashed thin on street tortillas, seared crisp, flipped onto a parmesan frico crust, then piled with romaine in a lightened Caesar. About 26 grams of protein per taco.
 eyebrow: WEEKNIGHT / TACOS
 tags: [weeknight, chicken]
 serves: "5"
@@ -8,7 +8,7 @@ total_time: "45m"
 hero: photos/hero.jpg
 satiety: 4
 serving: "2 tacos (about 12 oz)"
-macros: { calories: 565, protein: 54, carbs: 36, fat: 22 }
+macros: { calories: 545, protein: 52, carbs: 36, fat: 21 }
 ---
 
 ## Ingredients
@@ -37,14 +37,13 @@ macros: { calories: 565, protein: 54, carbs: 36, fat: 22 }
 ### Assembly
 - 1 head | romaine, chopped
 - 1/3 cup | bacon bits
-- 1/3 cup | parmesan, shredded or shaved
 - 1 cup | croutons
 
 ## Method
 
 The dressing leans entirely on light mayonnaise, so the brand matters: check the label for added sugar — some light mayos are noticeably sweet, which reads wrong in a Caesar. If the finished dressing tastes thin, a 50/50 split of light and regular mayo restores the body for a few extra grams of fat per serving.
 
-Lower-carb alternative: swap in 8 medium zero-net-carb tortillas (soft-taco size) and press about 4 oz of chicken onto each — the larger tortilla takes the bigger portion. That makes 8 tacos, serving 4 at 2 tacos each: roughly 600 calories, 72g protein, 30g fat, and 40g carbs per serving, of which about 12g are net — the tortilla carbs are nearly all fiber.
+Lower-carb alternative: swap in 8 medium zero-net-carb tortillas (soft-taco size) and press about 4 oz of chicken onto each — the larger tortilla takes the bigger portion. That makes 8 tacos, serving 4 at 2 tacos each: roughly 575 calories, 70g protein, 28g fat, and 40g carbs per serving, of which about 12g are net — the tortilla carbs are nearly all fiber.
 
 ### Make the dressing
 Whisk the mayonnaise, Dijon, lemon juice, garlic, Worcestershire, pepper, and salt. No oil, no water — light mayo is already thin. Taste and push the salt and lemon a little further than feels right — the reduced fat mutes everything — then refrigerate until assembly.
@@ -66,4 +65,4 @@ Flip, scatter about 1/2 tbsp of the grated parmesan over each tortilla, and cook
 ![The frico crust, flipped and golden](photos/frico.jpg)
 
 ### Assemble and serve
-Swipe a spoonful of dressing over the chicken, then sprinkle each taco with bacon bits and set 3–4 croutons on top. Pile on the romaine, drizzle more dressing over the greens, and finish with the shaved parmesan. Serve immediately.
+Swipe a spoonful of dressing over the chicken, then sprinkle each taco with bacon bits and set 3–4 croutons on top. Pile on the romaine and drizzle more dressing over the greens. Serve immediately.
