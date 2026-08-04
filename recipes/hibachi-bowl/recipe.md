@@ -2,7 +2,7 @@
 title: Chicken hibachi bowl with fried rice
 lede: Griddle-seared chicken breast, charred vegetables, and egg fried rice cooked in sequence on a flat-top, finished with soy, garlic, and lemon.
 eyebrow: WEEKNIGHT / GRIDDLE
-tags: [weeknight, high-protein]
+tags: [weeknight, chicken, high-protein]
 serves: "4"
 total_time: "35m"
 hero: photos/hero.jpg

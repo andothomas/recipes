@@ -2,7 +2,7 @@
 title: Chicken shawarma bowls with lemon yellow rice
 lede: Lemon-and-spice chicken breast over turmeric rice from the cooker, built for macros with a garlic yogurt sauce and a pile of raw vegetables.
 eyebrow: WEEKNIGHT / SHAWARMA
-tags: [weeknight, high-protein]
+tags: [weeknight, chicken, high-protein]
 serves: "4"
 total_time: "50m"
 hero: photos/hero.jpg

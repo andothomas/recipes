@@ -2,7 +2,7 @@
 title: Chicken Caesar smash tacos
 lede: Ground chicken smashed thin on street tortillas, seared crisp, then piled with romaine in a lightened Caesar. About 25 grams of protein per taco.
 eyebrow: WEEKNIGHT / TACOS
-tags: [weeknight, chicken]
+tags: [weeknight, chicken, high-protein]
 serves: "5"
 total_time: "45m"
 hero: photos/hero.jpg

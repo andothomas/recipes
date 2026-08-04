@@ -2,7 +2,7 @@
 title: Sweet potato street corn bowls
 lede: Roasted sweet potatoes and taco beef topped with a creamy elote-style corn mixture that doubles as the dressing.
 eyebrow: WEEKNIGHT / BOWLS
-tags: [weeknight]
+tags: [weeknight, beef]
 serves: "4"
 total_time: "45m"
 hero: photos/hero.jpg
