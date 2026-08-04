@@ -57,7 +57,7 @@ Divide the chicken into 10 portions, about 3 oz each, and press one onto each to
 Heat a nonstick skillet over medium-high, no oil, and work in batches. Lay the tacos meat side down and do not move them for 3–4 minutes, until the edges brown and they release cleanly.
 
 ### Flip and crisp
-Flip and cook about 1 minute more.
+Flip and cook about 2 minutes more.
 
 ### Assemble and serve
 Swipe a spoonful of dressing over the chicken, then sprinkle each taco with bacon bits and set 3–4 croutons on top. Pile on the romaine and drizzle more dressing over the greens. Serve immediately.
